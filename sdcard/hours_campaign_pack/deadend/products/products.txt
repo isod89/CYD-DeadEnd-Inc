@@ -1,0 +1,8 @@
+glow|Glow|22|8|2|2|4|1|0|cheap club shimmer with forgiving margins
+dust|Dust|34|11|3|3|5|1|6|steady street runner that keeps lights on
+hex|Hex|52|15|4|5|7|2|14|high risk premium rush for reckless spenders
+velvet|Velvet|63|14|4|4|6|2|16|smooth high-end staple with stable repeat buyers
+static|Static|41|10|3|4|5|1|8|bright commuter product that moves in volume
+ember|Ember|74|17|5|5|8|3|18|volatile late-night seller with hot margins
+mirror|Mirror|88|19|6|6|9|3|24|luxury reflective blend bought for status
+noctis|Noctis|97|21|6|7|10|4|34|elite blackout mix sold through whispers

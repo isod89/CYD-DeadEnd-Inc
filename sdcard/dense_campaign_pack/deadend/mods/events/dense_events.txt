@@ -1,0 +1,26 @@
+evt_07|2|0|0|A tired landlord raises your room fee and calls it a kindness.|-12|0|0|8
+evt_08|2|10|0|A rumor starts moving faster than your product tonight.|0|4|0|0
+evt_09|3|0|6|A rich buyer wants a clean same-night drop and double confirmation.|24|2|1|0
+evt_10|3|14|0|A patrol idles too long near your route and everyone notices.|0|5|0|0
+evt_11|4|0|8|A small crew asks for volume pricing and promises future loyalty.|18|1|1|0
+evt_12|4|16|0|Street cameras catch a familiar face twice in one shift.|0|6|0|0
+evt_13|5|0|10|A club line forms early and demand spikes before sunset.|28|2|2|0
+evt_14|5|12|0|A runner dumps inventory to save themselves and leaves you thin.|-16|4|-1|0
+evt_15|6|0|12|A fixer opens a narrow safe window in a hot district.|14|-2|1|0
+evt_16|6|20|0|Neighbors start asking questions with the tone of future trouble.|0|7|0|0
+evt_17|7|0|5|A supplier extends friendly credit because your cash flow looks sick.|0|0|1|-8
+evt_18|7|12|7|A quiet block suddenly opens fresh buyers after midnight.|16|-3|1|0
+evt_19|8|0|14|A luxury contact wants only premium stock and no excuses.|32|3|2|0
+evt_20|8|22|0|Too many eyes sit on the same corner all evening.|0|8|0|0
+evt_21|9|0|9|A trusted runner comes back with more cash than promised.|20|-1|1|0
+evt_22|9|15|0|A rival stirs noise in your lane just to check your reaction.|-10|5|0|0
+evt_23|10|0|15|A new district opens if your name still carries weight tonight.|26|2|2|0
+evt_24|10|24|0|Storage gets searched and the whole room starts sweating.|-14|9|-1|0
+evt_25|11|0|10|A rich regular returns with friends and bad manners.|22|3|1|0
+evt_26|11|18|6|A fixer buries a report before it turns official.|-8|-5|0|0
+evt_27|12|0|16|An exclusive buyer asks for a perfectly quiet route.|30|1|2|0
+evt_28|12|26|0|Too much movement around storage burns real cash.|-22|6|0|0
+evt_29|13|0|18|A premium night doubles margins for one disciplined run.|34|2|2|0
+evt_30|13|20|8|A nervous recruit talks too much and too close to the wrong people.|-6|4|0|0
+evt_31|14|0|20|A hidden buyer from the towers tests your discipline and timing.|38|3|2|0
+evt_32|14|28|0|The whole city feels hotter, meaner, and less forgiving.|0|10|0|0

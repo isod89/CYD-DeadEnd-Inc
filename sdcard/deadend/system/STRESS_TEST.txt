@@ -1,0 +1,20 @@
+Dead End Inc. stress test pack
+
+This pack pushes the current engine close to its limits.
+
+Expected totals with base content + mods:
+- Products: 8
+- Districts: 12
+- Contacts: 16
+- Events: 32
+
+What to test on device:
+1. Cycle products in HOME and OPS with PREV/NEXT until all 8 appear.
+2. Open MAP and use the page hint at lower right to move across 3 pages of districts.
+3. Open CREW and use the page hint at lower right to move across 4 pages of contacts.
+4. Play for several in-game days and confirm the event pool still triggers normally.
+5. Save, reboot, then verify selected product/district/contact still load correctly.
+
+How to install:
+Copy the full /deadend folder from the project SD pack to the card root.
+

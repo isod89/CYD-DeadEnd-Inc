@@ -1,0 +1,5 @@
+june|June Mercer|supplier|motel|54|16|glow|old chem broker with a calm voice and better memory than most
+rico|Rico Vale|runner|east|46|28|dust|fast feet, loose mouth, useful until he feels clever
+mara|Mara Quill|fixer|station|59|14|hex|fixer who treats panic like a billable service
+sol|Sol Pike|client|club|42|22|hex|premium buyer who pays big and vanishes fast
+nix|Nix Ortega|scout|east|49|20|dust|always knows who is watching and who is pretending not to

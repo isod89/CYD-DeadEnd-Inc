@@ -1,0 +1,12 @@
+contact_01|June|supplier|motel|38|10|glow|supplier with long memory and thin patience in motel strip
+contact_02|Rico|runner|east|45|15|dust|runner who values speed over comfort in east block
+contact_03|Mara|fixer|station|52|20|hex|fixer who sells calm at a premium in station market
+contact_04|Sol|client|club|59|25|velvet|client who buys in moods and vanishes fast in club row
+contact_05|Nix|scout|pier|38|30|static|scout who hears trouble before the radios do in pier teeth
+contact_06|Vale|supplier|arcade|45|35|ember|supplier with long memory and thin patience in arcade mile
+contact_07|Tara|runner|heights|52|14|mirror|runner who values speed over comfort in concrete heights
+contact_08|Gale|fixer|canal|59|19|noctis|fixer who sells calm at a premium in canal walk
+contact_09|Miro|client|yard|38|24|quartz|client who buys in moods and vanishes fast in rail yard
+contact_10|Sable|scout|mall|45|29|lotus|scout who hears trouble before the radios do in dead mall
+contact_11|Knox|supplier|medical|52|34|cinder|supplier with long memory and thin patience in medical loop
+contact_12|Jules|runner|campus|59|13|aura|runner who values speed over comfort in night campus

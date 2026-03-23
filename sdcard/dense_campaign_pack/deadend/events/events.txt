@@ -1,0 +1,6 @@
+late_fee|2|0|0|The collector doubles your late fee and says it is still the polite version.|-20|0|-2|12
+camera_sweep|3|18|0|A fresh camera sweep lights up your route and cuts into every calm plan.|0|8|0|0
+club_invite|4|0|12|A club promoter asks for a same-night premium drop with no excuses.|35|4|3|0
+runner_cut|5|12|0|A runner trims your take and swears the numbers were wrong already.|-18|5|-1|0
+quiet_window|6|0|8|For one brief shift the block goes quiet and every move feels cleaner.|0|-6|2|0
+supplier_credit|7|0|5|June floats extra precursor because she still thinks you might become reliable.|0|0|1|-10

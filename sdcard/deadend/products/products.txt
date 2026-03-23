@@ -1,0 +1,3 @@
+glow|Glow|22|8|2|2|4|1|0|cheap club shimmer
+dust|Dust|34|11|3|3|5|1|6|steady street runner
+hex|Hex|52|15|4|5|7|2|14|high risk premium rush

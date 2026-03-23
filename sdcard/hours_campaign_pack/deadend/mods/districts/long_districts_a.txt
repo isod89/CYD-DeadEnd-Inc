@@ -1,0 +1,8 @@
+yard|Rail Yard|17|14|5|6|9|8|3|6|5|8|7|8|3|4|6|9|8|9|4|5|6|9|10|11|6|5|night crews, freight ghosts, and stolen hours
+mall|Dead Mall|12|9|6|7|8|3|4|5|6|7|8|3|4|5|7|8|9|4|5|6|7|8|9|4|5|6|half-lit atriums and closed-shop back doors
+medical|Medical Loop|19|22|7|8|4|4|5|7|7|9|3|4|5|6|8|10|4|5|6|7|8|10|5|6|7|7|high-value panic buyers with heavy cameras
+campus|Night Campus|10|7|8|3|6|5|6|9|8|5|4|5|6|7|9|6|5|6|7|8|9|6|7|8|9|8|cycles of exams, parties, and repeat demand
+oldtown|Old Town|15|16|4|5|6|7|8|9|4|5|6|7|8|9|5|6|7|8|9|10|5|6|7|8|9|10|old money facades with old grudges inside
+casino|Neon Casino|20|24|5|7|10|8|10|7|5|8|9|8|10|6|6|9|10|9|11|7|6|9|11|10|12|7|whales, hosts, and very expensive mistakes
+suburb|Sleep Suburb|9|5|6|7|10|9|4|7|6|9|8|9|4|5|7|10|9|10|5|6|7|10|11|12|7|6|low-risk side streets with boring consistency
+foundry|Foundry Row|18|21|7|8|9|4|5|6|7|8|9|4|5|6|8|9|10|5|6|7|8|9|10|5|6|7|union noise and chemical exhaust

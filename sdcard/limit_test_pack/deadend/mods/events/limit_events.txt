@@ -1,0 +1,26 @@
+evt_07|2|0|0|A tired landlord raises your room fee without warning.|-12|0|0|8
+evt_08|2|10|0|A loose rumor starts moving along your route.|0|4|0|0
+evt_09|3|0|6|A rich buyer wants a clean same-night drop.|24|2|1|0
+evt_10|3|14|0|A patrol parks longer than expected near your stash.|0|5|0|0
+evt_11|4|0|8|A small crew asks to buy wholesale for a discount.|18|1|1|0
+evt_12|4|16|0|Street cameras catch a familiar face twice.|0|6|0|0
+evt_13|5|0|10|A club line forms early and demand jumps for one shift.|28|2|2|0
+evt_14|5|18|0|A runner dumps inventory to save themselves.|-16|4|-1|0
+evt_15|6|0|12|A fixer offers a narrow window in a hot district.|14|-2|1|0
+evt_16|6|20|0|Neighbors start asking questions you cannot pay away.|0|7|0|0
+evt_17|7|0|5|A supplier extends friendly credit to keep you moving.|0|0|1|-8
+evt_18|7|12|7|A quiet block suddenly opens new buyers after dark.|16|-3|1|0
+evt_19|8|0|14|A luxury contact wants only premium stock tonight.|32|3|2|0
+evt_20|8|22|0|Too many eyes sit on the same corner all evening.|0|8|0|0
+evt_21|9|0|9|A trusted runner brings back more cash than expected.|20|-1|1|0
+evt_22|9|15|0|A rival stirs up noise just to test your nerves.|-10|5|0|0
+evt_23|10|0|15|A new district opens if your name feels big enough.|26|2|2|0
+evt_24|10|24|0|Your block gets searched and everyone starts sweating.|-14|9|-1|0
+evt_25|11|0|10|A rich regular returns with friends and bad manners.|22|3|1|0
+evt_26|11|18|6|A fixer buries a report before it turns official.|-8|-5|0|0
+evt_27|12|0|16|An exclusive buyer asks for a perfectly quiet route.|30|1|2|0
+evt_28|12|26|0|Too much movement around storage burns real cash.|-22|6|0|0
+evt_29|13|0|18|A premium night doubles margins for one clean run.|34|2|2|0
+evt_30|13|20|8|A nervous recruit talks more than they should.|-6|4|0|0
+evt_31|14|0|20|A hidden buyer from the towers tests your discipline.|38|3|2|0
+evt_32|14|28|0|The whole city feels hotter and less forgiving.|0|10|0|0

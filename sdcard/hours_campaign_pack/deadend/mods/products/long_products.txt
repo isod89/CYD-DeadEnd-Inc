@@ -1,0 +1,16 @@
+quartz|Quartz|28|7|2|3|3|1|0|clean low-risk starter line for cautious growth
+lotus|Lotus|47|12|3|4|5|2|8|weekend favorite that sells best in social zones
+cinder|Cinder|58|13|4|4|6|2|10|burnt-edge staple with loyal middle-tier buyers
+aura|Aura|66|15|4|5|7|2|14|reputation product that travels by word of mouth
+ion|Ion|39|9|3|3|4|1|4|fast turnover commuter line for crowded routes
+ravel|Ravel|72|16|5|5|8|2|16|premium mood line with spiky heat impact
+halo|Halo|84|18|5|6|8|3|22|upmarket glow sold in cleaner districts
+phase|Phase|91|20|6|6|9|3|28|unstable premium with high district demand swings
+sable|Sable|53|11|4|4|5|2|8|quiet earner ideal for low-heat operations
+lumen|Lumen|78|17|5|5|7|3|18|flashy seller that boosts rep when moved cleanly
+echo|Echo|60|12|4|4|6|2|10|trusted repeat-customer product for long routes
+glass|Glass|103|22|6|7|10|4|34|rare prestige line that draws dangerous attention
+prism|Prism|110|23|7|7|11|4|38|top-tier signature line for max-control districts
+vanta|Vanta|118|24|7|8|12|4|42|endgame black-market darling with punishing heat
+kite|Kite|36|8|2|3|4|1|2|starter speed line for training new runners
+drift|Drift|44|10|3|4|5|1|4|soft-margin staple that holds the east together

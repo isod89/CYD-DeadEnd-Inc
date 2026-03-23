@@ -1,0 +1,6 @@
+late_fee|2|0|0|The collector doubled your late fee overnight.|-20|0|-2|12
+camera_sweep|3|18|0|New street cameras went up across your route.|0|8|0|0
+club_invite|4|0|12|A club promoter wants a premium drop tonight.|35|4|3|0
+runner_cut|5|12|0|A runner skimmed a box off the top.|-18|5|-1|0
+quiet_window|6|0|8|A rare quiet window opens across the district.|0|-6|2|0
+supplier_credit|7|0|5|June floats you extra precursor on trust.|0|0|1|-10

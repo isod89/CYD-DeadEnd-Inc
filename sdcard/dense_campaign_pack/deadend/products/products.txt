@@ -1,0 +1,3 @@
+glow|Glow|24|8|2|2|4|cheap shimmer that keeps low-end nightlife moving
+dust|Dust|36|11|3|3|5|reliable mover with solid street demand
+hex|Hex|54|15|4|5|7|premium rush line that turns eyes and cash at once

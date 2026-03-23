@@ -1,0 +1,4 @@
+motel|Motel Strip|8|0|7|5|2|cheap rooms, desperate buyers, easy first cash
+east|East Block|12|6|4|8|5|busy corners with thin patience and fast turnover
+station|Station Market|15|12|5|6|7|dense foot traffic and constant surveillance
+club|Club Row|18|20|8|4|10|elite demand, elite prices, elite problems

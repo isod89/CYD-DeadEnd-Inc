@@ -1,0 +1,16 @@
+stage_01|Open Tabs|Reach day 2 with cash 260 and heat under 40.|2|0|260|40|260|0|20|2|0|0|0||The room is cheap, the debt is not, and nobody expects you to last.
+stage_02|Claim East|Reach rep 8 and hold one district at control 2.|2|8|0|44|320|2|28|2|0|0|0|east|The first corner that answers to you still feels rented, but it answers.
+stage_03|Steady Shift|Reach cash 360, precursor 8 on hand, and debt under 250.|3|10|360|48|250|0|32|2|0|0|2||Routine is expensive right before it becomes normal.
+stage_04|Station Window|Reach rep 12 and control 3 while keeping heat under 50.|4|12|0|50|340|3|38|2|0|0|0|station|You are no longer invisible. The trick now is looking harmless.
+stage_05|Crew of Two|Recruit up to crew 2 and survive to day 5.|5|12|0|52|380|0|36|2|0|1|0||Once another person depends on the route, mistakes get louder.
+stage_06|Club Touch|Reach rep 18, cash 520, and unlock Club Row.|6|18|520|56|420|0|42|3|1|0|2|club|Premium buyers never ask less, they only ask quieter.
+stage_07|Three Corners|Hold max control 5 and rep 20 by day 8.|8|20|0|58|430|5|45|3|0|0|0||When three corners start paying at once, everyone notices.
+stage_08|Debt Discipline|Bring debt under 180 while keeping cash above 400.|9|20|400|60|180|0|48|2|0|0|2||Nothing feels richer than owing less than yesterday.
+stage_09|Pier Access|Reach rep 24 and unlock the Pier Teeth route.|10|24|0|62|460|0|52|3|0|0|0|pier|The water routes smell like rust and opportunity in equal measure.
+stage_10|Upgrade House|Reach lab 2, storage 3, and cash 650.|11|24|650|64|520|0|60|3|1|0|3||The room starts looking like an operation instead of an accident.
+stage_11|Night Campus|Reach rep 28, max control 6, and survive day 13.|13|28|0|66|540|6|62|3|0|1|0|campus|Students make terrible decisions on schedules you can plan around.
+stage_12|High Table|Reach cash 820 and unlock Casino or Hotel class buyers.|14|30|820|68|620|0|70|4|0|0|2|casino|The rich buy discretion, then panic, then more discretion.
+stage_13|Quiet Empire|Bring heat below 24 while holding rep 32 and control 7.|15|32|0|24|680|7|76|4|0|0|0||The city becomes truly profitable only when it stops saying your name.
+stage_14|Crew of Four|Reach crew 4, cash 980, and debt below 260.|16|34|980|72|260|0|78|4|0|1|2||Managing people is just paying for mistakes in advance.
+stage_15|Tower Access|Reach rep 38 and unlock Signal Tower while holding heat under 70.|18|38|0|70|780|0|84|4|1|0|2|tower|Once the tower opens, the floor stops mattering and the air gets thin.
+stage_16|Top Floor|Reach day 20, cash 1400, max control 9, and debt under 220.|20|40|1400|72|220|9|120|6|1|1|4||You did not build something safe. You built something that outlives panic.

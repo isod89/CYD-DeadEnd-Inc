@@ -1,0 +1,26 @@
+spotter_tip|2|6|0|A rooftop spotter sells you ten quiet minutes.|0|-4|1|0
+cheap_cut|2|0|0|A rushed batch comes out weak and clients notice.|-10|2|-1|0
+union_pull|3|8|4|A dock crew demands a cut to keep your route open.|-14|0|1|6
+street_party|3|0|6|A block party spikes demand across a rough neighborhood.|18|3|2|0
+small_bust|4|20|0|A corner crew nearby gets hit and everybody goes tense.|0|7|0|0
+friend_in_uniform|4|12|8|A tired uniformed friend looks away for one more night.|-12|-6|1|0
+supplier_drop|5|0|5|An unexpected crate lands behind your spot at dawn.|0|0|1|-12
+fake_notes|5|10|0|Half a payment came in fake notes.|-16|2|0|0
+vip_window|6|0|14|A private room opens for premium clients only.|28|4|3|0
+crew_argument|6|14|0|Two runners nearly fight over a skimmed envelope.|-8|3|-1|0
+side_hustle|7|0|9|A contact offers a quiet side hustle for spare stock.|14|1|1|0
+blackout|7|18|0|A district blackout kills cameras but raises nerves.|0|-5|2|0
+panic_buy|8|0|10|Rumors send regulars into a panic-buy wave.|24|5|2|0
+silent_week|8|0|16|Everything goes strangely calm for a full cycle.|0|-8|1|0
+lost_runner|9|16|0|A runner disappears for a shift and comes back broke.|-20|4|-1|0
+fixer_favor|9|10|12|A fixer calls in a favor and clears one ugly file.|-18|-7|2|0
+clean_cash|10|0|18|A clean buyer pays full and early.|30|1|2|0
+neighbor_watch|10|22|0|Neighborhood watch flyers start showing up everywhere.|0|6|0|0
+market_glut|11|0|7|Too much low-end product floods the corners.|-12|1|-1|0
+premium_spike|11|0|20|Luxury demand spikes after a private afterparty.|34|5|3|0
+bad_weather|12|0|0|Cold rain keeps half the city indoors.|-10|-1|0|0
+panic_shift|12|25|10|Three contacts start acting nervous at once.|-6|5|0|0
+quiet_bribe|13|8|0|A small envelope buys one more quiet route.|-15|-5|1|0
+warehouse_find|13|0|15|An old stash turns up behind dead shelving.|22|0|2|-8
+night_market|14|0|12|A hidden market opens for a single late shift.|26|4|2|0
+collector_smile|14|12|18|The collector smiles and offers a better debt line.|0|0|1|-16

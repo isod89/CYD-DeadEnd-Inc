@@ -1,0 +1,18 @@
+contact_31|Oris|supplier|heights|52|30|mirror|supplier with long memory and thin patience in concrete heights
+contact_32|Lina|runner|canal|59|35|noctis|runner who values speed over comfort in canal walk
+contact_33|Drex|fixer|yard|38|14|quartz|fixer who sells calm at a premium in rail yard
+contact_34|Tess|client|mall|45|19|lotus|client who buys in moods and vanishes fast in dead mall
+contact_35|Nero|scout|medical|52|24|cinder|scout who hears trouble before the radios do in medical loop
+contact_36|Voss|supplier|campus|59|29|aura|supplier with long memory and thin patience in night campus
+contact_37|Mika|runner|oldtown|38|34|ion|runner who values speed over comfort in old town
+contact_38|Rune|fixer|casino|45|13|ravel|fixer who sells calm at a premium in neon casino
+contact_39|Jett|client|suburb|52|18|halo|client who buys in moods and vanishes fast in sleep suburb
+contact_40|Skye|scout|foundry|59|23|phase|scout who hears trouble before the radios do in foundry row
+contact_41|Briar|supplier|market|38|28|sable|supplier with long memory and thin patience in market spine
+contact_42|Enzo|runner|hotel|45|33|lumen|runner who values speed over comfort in sky hotel
+contact_43|Lark|fixer|ferry|52|12|echo|fixer who sells calm at a premium in ferry landing
+contact_44|Theo|client|border|59|17|glass|client who buys in moods and vanishes fast in outer border
+contact_45|Mae|scout|garden|38|22|prism|scout who hears trouble before the radios do in glass garden
+contact_46|Cass|supplier|arena|45|27|vanta|supplier with long memory and thin patience in arena belt
+contact_47|Vito|runner|warehouse|52|32|kite|runner who values speed over comfort in warehouse ring
+contact_48|Uma|fixer|tower|59|11|drift|fixer who sells calm at a premium in signal tower

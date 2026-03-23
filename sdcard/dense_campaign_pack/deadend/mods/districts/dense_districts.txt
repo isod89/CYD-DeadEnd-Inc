@@ -1,0 +1,8 @@
+harbor|Harbor Steps|11|4|6|5|4|wet concrete, cheap exits, watchful night crews
+oldtown|Old Town Walk|13|8|5|7|6|older clients with longer memories and slower trust
+arcade|Neon Arcade|14|10|7|5|6|young money, loud mistakes, sharp turnover
+towers|Tower Ring|16|14|4|6|9|high-value buyers behind too many cameras
+yard|Freight Yard|12|9|6|6|5|graveyard crews and blind industrial corners
+campus|Campus Fringe|10|7|8|4|3|cheap volume, chaotic routines, sudden spikes
+suburb|Suburb Gate|9|5|4|5|4|slow money with low heat and long loops
+casino|Casino Mile|19|22|7|5|10|premium margins wrapped in premium surveillance

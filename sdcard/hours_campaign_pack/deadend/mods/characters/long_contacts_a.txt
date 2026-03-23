@@ -1,0 +1,18 @@
+contact_13|Oren|fixer|oldtown|38|18|ion|fixer who sells calm at a premium in old town
+contact_14|Lyra|client|casino|45|23|ravel|client who buys in moods and vanishes fast in neon casino
+contact_15|Bram|scout|suburb|52|28|halo|scout who hears trouble before the radios do in sleep suburb
+contact_16|Cleo|supplier|foundry|59|33|phase|supplier with long memory and thin patience in foundry row
+contact_17|Dane|runner|market|38|12|sable|runner who values speed over comfort in market spine
+contact_18|Vera|fixer|hotel|45|17|lumen|fixer who sells calm at a premium in sky hotel
+contact_19|Pax|client|ferry|52|22|echo|client who buys in moods and vanishes fast in ferry landing
+contact_20|Mina|scout|border|59|27|glass|scout who hears trouble before the radios do in outer border
+contact_21|Rook|supplier|garden|38|32|prism|supplier with long memory and thin patience in glass garden
+contact_22|Sil|runner|arena|45|11|vanta|runner who values speed over comfort in arena belt
+contact_23|Nova|fixer|warehouse|52|16|kite|fixer who sells calm at a premium in warehouse ring
+contact_24|Kade|client|tower|59|21|drift|client who buys in moods and vanishes fast in signal tower
+contact_25|Iris|scout|motel|38|26|glow|scout who hears trouble before the radios do in motel strip
+contact_26|Leon|supplier|east|45|31|dust|supplier with long memory and thin patience in east block
+contact_27|Moss|runner|station|52|10|hex|runner who values speed over comfort in station market
+contact_28|Rhea|fixer|club|59|15|velvet|fixer who sells calm at a premium in club row
+contact_29|Axel|client|pier|38|20|static|client who buys in moods and vanishes fast in pier teeth
+contact_30|Yara|scout|arcade|45|25|ember|scout who hears trouble before the radios do in arcade mile

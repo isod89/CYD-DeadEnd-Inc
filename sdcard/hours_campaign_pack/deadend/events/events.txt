@@ -1,0 +1,30 @@
+evt_001|2|0|0|A courier vanished between Motel Strip and the lockup.|-18|-5|-2|-10
+evt_002|2|0|2|A buyer from East Block paid early just to stay on your list.|-7|-2|3|-3
+evt_003|2|8|4|A sweep across Station Market pushed everyone indoors.|4|1|2|4
+evt_004|2|12|6|Someone in Club Row is imitating your packaging badly.|15|4|1|11
+evt_005|2|16|8|An exhausted runner slept on the route and lost a window in Pier Teeth.|26|-4|0|-8
+evt_006|3|20|10|A private host in Arcade Mile wants premium stock tonight.|37|-1|-1|-1
+evt_007|3|0|12|A rumor in Concrete Heights says your line is cleaner than the rivals.|-9|2|-2|6
+evt_008|3|0|14|A cheap counterfeit wave hit Canal Walk and made real buyers nervous.|2|5|3|13
+evt_009|3|8|16|A district watcher in Rail Yard offered you a warning for cash.|13|-3|2|-6
+evt_010|3|12|18|A contact from Dead Mall wants proof you can keep things quiet.|24|0|1|1
+evt_011|3|16|20|A courier vanished between Medical Loop and the lockup.|35|3|0|8
+evt_012|3|20|22|A buyer from Night Campus paid early just to stay on your list.|-11|-5|-1|15
+evt_013|4|0|24|A sweep across Old Town pushed everyone indoors.|0|-2|-2|-4
+evt_014|4|0|26|Someone in Neon Casino is imitating your packaging badly.|11|1|3|3
+evt_015|4|8|28|An exhausted runner slept on the route and lost a window in Sleep Suburb.|22|4|2|10
+evt_016|4|12|30|A private host in Foundry Row wants premium stock tonight.|33|-4|1|-9
+evt_017|4|16|32|A rumor in Market Spine says your line is cleaner than the rivals.|-13|-1|0|-2
+evt_018|4|20|0|A cheap counterfeit wave hit Sky Hotel and made real buyers nervous.|-2|2|-1|5
+evt_019|4|0|2|A district watcher in Ferry Landing offered you a warning for cash.|9|5|-2|12
+evt_020|4|0|4|A contact from Outer Border wants proof you can keep things quiet.|20|-3|3|-7
+evt_021|4|8|6|A courier vanished between Glass Garden and the lockup.|31|0|2|0
+evt_022|5|12|8|A buyer from Arena Belt paid early just to stay on your list.|-15|3|1|7
+evt_023|5|16|10|A sweep across Warehouse Ring pushed everyone indoors.|-4|-5|0|14
+evt_024|5|20|12|Someone in Signal Tower is imitating your packaging badly.|7|-2|-1|-5
+evt_025|5|0|14|An exhausted runner slept on the route and lost a window in Motel Strip.|18|1|-2|2
+evt_026|5|0|16|A private host in East Block wants premium stock tonight.|29|4|3|9
+evt_027|5|8|18|A rumor in Station Market says your line is cleaner than the rivals.|-17|-4|2|-10
+evt_028|5|12|20|A cheap counterfeit wave hit Club Row and made real buyers nervous.|-6|-1|1|-3
+evt_029|6|16|22|A district watcher in Pier Teeth offered you a warning for cash.|5|2|0|4
+evt_030|6|20|24|A contact from Arcade Mile wants proof you can keep things quiet.|16|5|-1|11

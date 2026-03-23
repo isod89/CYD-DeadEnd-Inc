@@ -1,0 +1,11 @@
+ira|Ira Voss|runner|harbor|49|21|static|harbor runner with clean shoes and expensive bad timing
+kel|Kel Rowan|supplier|oldtown|55|18|shade|old supplier who sells silence at a markup
+myra|Myra Flint|fixer|arcade|61|14|ember|fixer who smiles only when other people sweat
+owen|Owen Pike|client|towers|44|19|velvet|tower buyer who hates waiting and hates noise more
+pru|Pru Ash|scout|yard|50|17|dust|yard scout with freight schedules folded into her sleeve
+quill|Quill Dane|runner|campus|46|24|glow|campus courier who always knows too much too late
+rhea|Rhea North|client|suburb|52|12|shade|suburb regular who pays on time and watches closely
+soren|Soren Vale|fixer|casino|57|16|nova|casino fixer with velvet gloves and dry threats
+tamsin|Tamsin Grey|supplier|harbor|48|22|ember|broker with uneven stock and excellent excuses
+ulric|Ulric Moss|scout|oldtown|53|15|static|old-town watcher who knows every side door
+ves|Ves Mercer|client|arcade|42|27|nova|arcade buyer chasing new highs and shorter exits

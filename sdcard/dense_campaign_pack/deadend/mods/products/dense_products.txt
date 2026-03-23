@@ -1,0 +1,5 @@
+static|Static|28|9|2|2|4|stable haze line for tired late-shift buyers
+velvet|Velvet|40|12|3|3|5|soft premium mover with loyal private demand
+ember|Ember|47|14|4|4|6|warm high-margin line that leaves longer traces
+nova|Nova|59|17|5|5|7|flash-sale rush product that burns bright and hot
+shade|Shade|32|10|3|2|4|quiet mover for careful districts and patient crews

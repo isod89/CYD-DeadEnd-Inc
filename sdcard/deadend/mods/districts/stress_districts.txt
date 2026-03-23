@@ -1,0 +1,8 @@
+arcade|Arcade Row|11|4|8|7|5|7|6|5|4|3|old neon alleys full of small buyers
+burnside|Burnside Towers|16|10|4|9|7|6|8|7|5|4|dense halls with cash and cameras
+dockside|Dockside|18|14|5|6|8|7|7|9|6|5|night cargo routes and greedy crews
+oldtown|Old Town|9|8|7|8|6|5|5|4|4|3|faded blocks with loyal demand
+ivory|Ivory Heights|20|22|3|4|9|8|9|8|7|7|rich clients and instant pressure
+ring|Ring Market|14|12|6|7|7|6|6|6|5|4|crowded circular bazaar with quick flips
+sublevel|Sublevel 4|17|18|5|5|8|9|7|7|8|6|sealed tunnels and controlled panic
+harborview|Harbor View|13|16|6|5|6|6|7|8|7|6|tourist lights over a dirty waterfront

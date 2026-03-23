@@ -1,0 +1,8 @@
+market|Market Spine|13|13|8|9|5|5|6|8|8|10|4|5|6|7|9|11|5|6|7|8|9|11|6|7|8|8|dense foot traffic and gossip velocity
+hotel|Sky Hotel|21|26|9|5|9|6|8|12|9|7|7|6|8|10|10|8|8|7|9|11|10|8|10|9|11|11|private floors, private buyers, private panic
+ferry|Ferry Landing|14|15|4|5|6|7|8|9|4|5|6|7|8|9|5|6|7|8|9|10|5|6|7|8|9|10|cross-shift commuters and luggage checks
+border|Outer Border|22|28|5|6|8|8|9|5|5|7|7|8|9|4|6|8|8|9|10|5|6|8|9|10|11|5|far cash, hard roads, and rival pressure
+garden|Glass Garden|16|17|6|7|10|9|4|7|6|9|8|9|4|5|7|10|9|10|5|6|7|10|11|12|7|6|soft luxury behind mirrored greenhouse walls
+arena|Arena Belt|18|19|7|8|9|4|5|6|7|8|9|4|5|6|8|9|10|5|6|7|8|9|10|5|6|7|event surges that spike and vanish
+warehouse|Warehouse Ring|17|18|8|9|5|5|6|8|8|10|4|5|6|7|9|11|5|6|7|8|9|11|6|7|8|8|forklifts, pallets, and invisible losses
+tower|Signal Tower|23|30|9|5|9|6|8|12|9|7|7|6|8|10|10|8|8|7|9|11|10|8|10|9|11|11|elite access and brutal consequences
